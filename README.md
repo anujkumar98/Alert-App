@@ -1,2 +1,2 @@
-# Android
-Small Projects on Android . Small Working modules to include in your app.
+# Android App
+Android app to show alert module.
